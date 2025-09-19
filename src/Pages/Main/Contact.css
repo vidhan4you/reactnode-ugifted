@@ -1,0 +1,9 @@
+.navbar-wrapper .active {
+  color: #0661B5;
+}
+.hero-section {
+  position: relative;
+}
+.hero-heading {
+  letter-spacing: 1px;
+}
