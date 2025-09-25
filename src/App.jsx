@@ -2,7 +2,8 @@
 import Navbar from './Pages/Main/NavBar';
 import About from './Pages/Main/About.jsx';
 import { Route, Routes } from 'react-router-dom';
-import Contact from './Pages/Main/contact.jsx';
+import Contact from './Pages/Main/Contact.jsx';
+// import Contact from './Pages/Main/contact.jsx';
 
 
 function App() {

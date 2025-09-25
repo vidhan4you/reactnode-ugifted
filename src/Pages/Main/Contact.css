@@ -1,9 +1,37 @@
 .navbar-wrapper .active {
   color: #0661B5;
 }
-.hero-section {
-  position: relative;
-}
+
+
 .hero-heading {
   letter-spacing: 1px;
+}
+
+.contact-content {   /* changed from hero-content to contact-content */
+  padding: 88px;
+  border-radius: 12px;
+  max-width: 640px;
+  transform: translate(-434px, 1px);
+  color: black;
+}
+.contact-heading {
+  width: 281px;
+  height: 75px;
+  position: absolute;
+  top: 119px;
+ 
+  opacity: 1;
+  font-size: 48px; /* adjust if needed */
+  font-weight: bold;
+  color: black;
+}
+.contact-text {
+  width: 563px;
+  height: 36px;
+  position: absolute;
+ top: 186px;
+     left:90px;
+  opacity: 1;
+  color: black;
+  font-size: 18px; /* adjust as needed */
 }
